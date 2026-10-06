@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Test hall · Clinicfolio",
+      "hasCanvas": false,
+      "bodyTextLen": 336,
+      "bodyTextHash": "ae36485c1be61ebd748299d27aef6f2cf729b28e0d236bbe2e3d62d8bd1d8778",
+      "bodyTextPrefix": "Lagos State University · College of Medicine Clinicfolio test ha",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Test hall · Clinicfolio",
+      "hasCanvas": false,
+      "bodyTextLen": 336,
+      "bodyTextHash": "ae36485c1be61ebd748299d27aef6f2cf729b28e0d236bbe2e3d62d8bd1d8778",
+      "bodyTextPrefix": "Lagos State University · College of Medicine Clinicfolio test ha",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (0 -> 336 chars, hash mismatch)",
+    "mobile: body text changed (0 -> 336 chars, hash mismatch)"
+  ]
+}
